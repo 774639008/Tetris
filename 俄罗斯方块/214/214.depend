@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1550293824 source:d:\project\214\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"list.h"
+	"file.h"
+	"public.h"
+	"show.h"
+	"tetrisLogicModel.h"
+	"tetrisPrinterBase.h"
+	"tetrisLogicRule.h"
+
+1550206566 d:\project\214\public.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+
+1550113891 source:d:\project\214\public.c
+	<conio.h>
+	<string.h>
+	"public.h"
+
+1550285864 source:d:\project\214\show.c
+	"show.h"
+	"public.h"
+	"file.h"
+	"list.h"
+	"tetrisLogicModel.h"
+
+1550285662 d:\project\214\show.h
+	"tetrisLogicModel.h"
+
+1550121562 source:d:\project\214\tetrislogicmodel.c
+	"tetrisLogicModel.h"
+	"public.h"
+
+1550112669 d:\project\214\tetrislogicmodel.h
+	"public.h"
+
+1550294196 source:d:\project\214\tetrislogicrule.c
+	"tetrisLogicRule.h"
+	"tetrisLogicModel.h"
+
+1550292274 d:\project\214\tetrislogicrule.h
+	<stdbool.h>
+	"tetrisLogicModel.h"
+
+1550294448 source:d:\project\214\tetrisprinterbase.c
+	"tetrisPrinterBase.h"
+	"tetrisLogicModel.h"
+	"public.h"
+	"snakerecord.h"
+
+1549951450 d:\project\214\tetrisprinterbase.h
+	"tetrisLogicModel.h"
+
+1550293076 source:d:\project\214\tetrislogicprocess.c
+	"tetrisLogicProcess.h"
+	"tetrisLogicModel.h"
+
+1550121739 d:\project\214\tetrislogicprocess.h
+	"tetrisLogicModel.h"
+
+1548377265 source:d:\project\214\file.c
+	"public.h"
+	"list.h"
+	"file.h"
+
+1548377566 d:\project\214\list.h
+	<stdio.h>
+	<stdlib.h>
+
+1548377280 d:\project\214\file.h
+
+1548378173 source:d:\project\214\list.c
+	"list.h"
+	"public.h"
+
+1550285519 source:d:\project\214\snakerecord.c
+	"snakerecord.h"
+	"list.h"
+	"public.h"
+	"show.h"
+
+1550124225 d:\project\214\snakerecord.h
+	"tetrisLogicModel.h"
+
